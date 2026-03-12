@@ -9,7 +9,7 @@
             Console.Title = "Naika's 7.1 While Loops Assignment";
             Console.ForegroundColor = ConsoleColor.Yellow;
 
-            Console.WriteLine("Welcome to the user input Assignment! Please follow the instructions and enter the requested information. Thanks!");
+            Console.WriteLine("Welcome to the While Loops Assignment! Please follow the instructions and enter the requested information. Thanks!");
             Console.WriteLine();
 
             Console.Write("Hey user, please enter your name: ");
